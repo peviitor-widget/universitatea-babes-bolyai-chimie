@@ -1,105 +1,360 @@
 [
   {
-    "url": "https://d-career.org/Draexlmaier/job/Satu-Mare-Controlor-calitate-CS-440268/1425915833/",
-    "title": "Controlor calitate CS",
-    "company": "DAR DRAXLMAIER AUTOMOTIVE SRL",
+    "url": "https://biofarm.mingle.ro/ro/embed/apply/Gd3RlA",
+    "title": "Analist chimist",
+    "company": "PALD BIOFARM SRL",
     "location": [
-      "Satu Mare, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:50:32.358Z",
+    "date": "2026-09-13T13:13:09.976Z",
     "status": "scraped",
     "tags": [
-      "Control calitate",
+      "Chimie analitică",
       "Analiză instrumentală"
     ],
-    "matchPercentage": 25,
-    "reason": "Control calitate în producție auto - se potrivește parțial cu competențele de chimie analitică și analiză instrumentală pentru testarea materialelor"
+    "matchPercentage": 85,
+    "reason": "Rol de analist chimist în industrie farmaceutică, aliniat cu chimia analitică și analiza instrumentală din planul de învățământ."
   },
   {
-    "url": "https://corporate.stihl.ro/ro/cariera/locuri-de-munca/detalii-job/2623003",
-    "title": "Inspector calitate furnizori",
-    "company": "ANDREAS STIHL POWER TOOLS S.R.L.",
+    "url": "https://www.apavital.ro/cariere/rezultate-finale-concurs-pentru-ocuparea-unui-post-de-laborant-chimist-in-cadrul-laboratorului-apa-uzata",
+    "title": "Rezultate finale Concurs pentru ocuparea unui post de laborant chimist în cadrul Laboratorului apa uzată",
+    "company": "APAVITAL SA",
     "location": [
-      "Oradea, Romania"
+      "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:49:39.627Z",
+    "date": "2026-09-13T13:10:40.575Z",
     "status": "scraped",
     "tags": [
-      "Control calitate",
+      "Tratarea apelor",
       "Chimie analitică"
     ],
-    "matchPercentage": 20,
-    "reason": "Inspecție calitate materiale - tangențial relevant prin cunoștințele de chimie analitică"
+    "matchPercentage": 90,
+    "reason": "Laborant chimist la laborator de apă uzată — potrivire directă cu competențele de Tratarea și epurarea apelor și Chimie analitică."
   },
   {
-    "url": "https://d-career.org/Draexlmaier/job/Hunedoara-Inginer-calitate-331110/1420873333/",
-    "title": "Inginer calitate",
-    "company": "DAR DRAXLMAIER AUTOMOTIVE SRL",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/biolog-biochimist-chimist-specialist-laborator-pediatrie/1985657",
+    "title": "Biolog/Biochimist/Chimist Specialist, Laborator Pediatrie",
+    "company": "GRIGORE MEDLIFE S.R.L.",
     "location": [
-      "Hunedoara, Romania"
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:09:43.271Z",
+    "status": "scraped",
+    "tags": [
+      "Biochimie",
+      "Analiză instrumentală"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol în laborator clinic medical, necesită experiență practică. Studiile de chimie oferă o bază, dar lipsa experienței clinice reduce potrivirea."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/SGS/744000126084800",
+    "title": "Laborant Chimist",
+    "company": "SGS - TIM SRL",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:09:15.285Z",
+    "status": "scraped",
+    "tags": [
+      "Chimie analitică",
+      "Lucrări de laborator"
+    ],
+    "matchPercentage": 85,
+    "reason": "Analize fizice și chimice în laborator - corespunde cu chimia analitică și lucrările de laborator din pregătirea academică."
+  },
+  {
+    "url": "https://careers.egger.com/job/Radauti-Inginer-chimist-%28Fabrica-de-Adezivi%29/1367732355/",
+    "title": "Radauti Inginer chimist (Fabrica de Adezivi)",
+    "company": "EGGER ROMANIA SRL",
+    "location": [
+      "Radauti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:08:57.871Z",
+    "status": "scraped",
+    "tags": [
+      "Tehnologie chimică",
+      "Chimie organică"
+    ],
+    "matchPercentage": 70,
+    "reason": "Inginer chimist în producție de adezivi — se potrivește cu chimia organică, tehnologia chimică și chimia coloizilor, dar este mai mult un rol de producție."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1020#content",
+    "title": "Operator chimist",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-12T12:05:38.498Z",
+    "status": "scraped",
+    "tags": [
+      "Chimie generală",
+      "Tehnologie chimică"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rol de operator chimist — posibil în producție sau laborator, dar descrierea este vagă. Competențele de bază sunt relevante."
+  },
+  {
+    "url": "https://bioclinica.ro/compania/cariere/biolog-chimist-biochimist-timisoara",
+    "title": "Biolog/Chimist/Biochimist",
+    "company": "BIOCLINICA SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-11T12:43:00.287Z",
+    "status": "scraped",
+    "tags": [
+      "Biochimie",
+      "Chimie analitică"
+    ],
+    "matchPercentage": 60,
+    "reason": "Laborator de analize medicale — chimia oferă o bază, dar activitatea este preponderent biochimică/medicală."
+  },
+  {
+    "url": "https://elytis-hospital.ro/cariere/biolog-chimist-biochimist/",
+    "title": "Biolog Chimist/ Biochimist",
+    "company": "ELYTIS HOSPITAL SRL",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-11T12:41:52.966Z",
+    "status": "scraped",
+    "tags": [
+      "Biochimie",
+      "Analiză instrumentală"
+    ],
+    "matchPercentage": 70,
+    "reason": "Acceptă absolvenți de chimie, nu necesită experiență obligatorie, oferă instruire. Analize medicale — potrivire bună pentru un începător."
+  },
+  {
+    "url": "https://bioclinica.ro/compania/cariere/biolog-chimist-biochimist",
+    "title": "Biolog/Chimist/Biochimist",
+    "company": "BIOCLINICA SRL",
+    "location": [
+      "Târgu Jiu, Romania"
     ],
     "salary": null,
     "date": "2026-09-10T12:49:36.462Z",
     "status": "scraped",
     "tags": [
-      "Control calitate",
-      "Analiză instrumentală"
-    ],
-    "matchPercentage": 25,
-    "reason": "Inginerie calitate în producție auto, implică verificarea materialelor și testare"
-  },
-  {
-    "url": "https://www.irum.ro/posturi-vacante/controlor-calitate-testare-utilaje-agricole/",
-    "title": "CONTROL CALITATE - TESTARE UTILAJE AGRICOLE",
-    "company": "IRUM SA",
-    "location": [
-      "Reghin, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:49:33.556Z",
-    "status": "scraped",
-    "tags": [
-      "Control calitate",
+      "Biochimie",
       "Chimie analitică"
     ],
-    "matchPercentage": 20,
-    "reason": "Testare și control calitate, dar pe utilaje agricole - doar tangențial relevant"
+    "matchPercentage": 60,
+    "reason": "Similar poziției anterioare Bioclinica — laborator medical, potrivire moderată cu profilul de chimist."
   },
   {
-    "url": "https://linde.csod.com/ux/ats/careersite/20/home/requisition/31626?c=linde",
-    "title": "Controlor Calitate (m/f/d)",
-    "company": "LINDE GAZ ROMANIA SRL",
+    "url": "https://www.smartrecruiters.com/Eurofins/743999911906738",
+    "title": "Tehnician chimist",
+    "company": "EUROFINS FOOD TESTING SRL",
     "location": [
-      "Galati, Romania"
+      "București, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:48:49.762Z",
+    "date": "2026-09-10T12:49:35.691Z",
     "status": "scraped",
     "tags": [
-      "Analiză instrumentală",
-      "Control calitate"
+      "Chimie analitică",
+      "Metode de separare"
     ],
-    "matchPercentage": 35,
-    "reason": "Linde produce gaze industriale; controlul calității gazelor implică analiză chimică și instrumentală direct relevantă"
+    "matchPercentage": 75,
+    "reason": "Testare alimentară și analize de laborator — aliniat cu chimia analitică, metode de separare și lucrări de laborator."
   },
   {
-    "url": "https://linde.csod.com/ux/ats/careersite/20/home/requisition/31621?c=linde",
-    "title": "Controlor Calitate (m/f/d)",
-    "company": "LINDE GAZ ROMANIA SRL",
+    "url": "https://www.apavital.ro/cariere/concurs-pentru-ocuparea-unui-post-de-laborant-chimist-in-cadrul-laboratorului-apa-potabila",
+    "title": "Concurs pentru ocuparea unui post de laborant chimist în cadrul Laboratorului Apă Potabilă",
+    "company": "APAVITAL SA",
     "location": [
-      "Otelu Rosu, Romania"
+      "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:48:49.762Z",
+    "date": "2026-09-10T12:47:32.719Z",
     "status": "scraped",
     "tags": [
-      "Analiză instrumentală",
-      "Control calitate"
+      "Tratarea apelor",
+      "Chimie analitică"
     ],
-    "matchPercentage": 35,
-    "reason": "Linde produce gaze industriale; controlul calității gazelor implică analiză chimică direct relevantă"
+    "matchPercentage": 90,
+    "reason": "Laborant chimist la apă potabilă — potrivire excelentă cu Tratarea și epurarea apelor și Chimie analitică."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Reprezentant-Vanzari-Expert-Tratarea-Apei-Remote",
+    "title": "Reprezentant Vanzari – Expert in Tratarea Apei (Studii de Chimie)",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:10.021Z",
+    "status": "scraped",
+    "tags": [
+      "Tratarea apelor",
+      "Chimie generală"
+    ],
+    "matchPercentage": 55,
+    "reason": "Rol de vânzări în tratarea apei — domeniul este relevant (Tratarea apelor), dar este un rol comercial, nu tehnic/laborator."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Reprezentant-Vanzari-Expert-Tratarea-Apei",
+    "title": "Reprezentant Vanzari – Expert in Tratarea Apei (Studii de Chimie)",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:10.021Z",
+    "status": "scraped",
+    "tags": [
+      "Tratarea apelor",
+      "Chimie generală"
+    ],
+    "matchPercentage": 55,
+    "reason": "Duplicat — rol de vânzări în tratarea apei, domeniu relevant dar rolul este comercial."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Reprezentant-Vanzari-Remote-Expert-Tratarea-Apei",
+    "title": "Reprezentant Vanzari – Expert in Tratarea Apei (Studii de Chimie)",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:09:47.776Z",
+    "status": "scraped",
+    "tags": [
+      "Tratarea apelor",
+      "Chimie generală"
+    ],
+    "matchPercentage": 55,
+    "reason": "Duplicat — rol de vânzări în tratarea apei, domeniu relevant dar rolul este comercial."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Reprezentant-Vanzari-Expert-in-Tratarea-Apei",
+    "title": "Reprezentant Vanzari – Expert in Tratarea Apei (Studii de Chimie)",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-12T12:04:10.579Z",
+    "status": "scraped",
+    "tags": [
+      "Tratarea apelor",
+      "Chimie generală"
+    ],
+    "matchPercentage": 55,
+    "reason": "Duplicat — rol de vânzări în tratarea apei, domeniu relevant dar rolul este comercial."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/offre-de-cdd-assistant-ingenieur-chimie-analytique-lisa-creteil",
+    "title": "OFFRE DE CDD – Assistant Ingénieur Chimie Analytique (LISA/Créteil)",
+    "company": "RED BULL ROMANIA SRL",
+    "location": [
+      "Lisa, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:56:24.534Z",
+    "status": "scraped",
+    "tags": [
+      "Chimie analitică",
+      "Analiză instrumentală"
+    ],
+    "matchPercentage": 80,
+    "reason": "Asistent inginer chimie analitică la Red Bull — potrivire foarte bună cu chimia analitică și analiza instrumentală. Locație Franța (LISA/Créteil)."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-analist-chimie-recrutam-pentru-clientul-nostru/2671",
+    "title": "Tehnician/Analist Chimie – Recrutăm pentru Clientul nostru",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-03T12:43:52.418Z",
+    "status": "scraped",
+    "tags": [
+      "Chimie analitică",
+      "Analiză instrumentală"
+    ],
+    "matchPercentage": 80,
+    "reason": "Tehnician/Analist chimie — rol de laborator potrivit cu chimia analitică și analiza instrumentală."
+  },
+  {
+    "url": "https://jobs.bunge.com/job/Traian-Laboratory-Assistant-%28Asistent-Laborator%29-Traian-Silo-Brai-817175/1418781833/",
+    "title": "Laboratory Assistant (Asistent Laborator) - Traian Silo",
+    "company": "BUNGE ROMANIA SRL",
+    "location": [
+      "Traian, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:40.908Z",
+    "status": "scraped",
+    "tags": [
+      "Lucrări de laborator",
+      "Chimie analitică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Asistent de laborator într-un siloz/agricultură — posibile analize de laborator, dar domeniul este mai degrabă agro-alimentar decât chimie pură."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18145/tehnician-de-calitate-laborator",
+    "title": "Tehnician de Calitate - Laborator",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Ghimbav, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:14.039Z",
+    "status": "scraped",
+    "tags": [
+      "Chimie analitică",
+      "Analiză instrumentală"
+    ],
+    "matchPercentage": 85,
+    "reason": "Tehnician de calitate în laborator — analize fizice și chimice, raportare, potrivire excelentă cu chimia analitică și controlul calității."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/tehnician-laborator-microbiologie/57/",
+    "title": "Tehnician Laborator Microbiologie",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:08.832Z",
+    "status": "scraped",
+    "tags": [
+      "Biochimie",
+      "Chimie analitică"
+    ],
+    "matchPercentage": 50,
+    "reason": "Lucru în laborator; microbiologia se intersectează cu biochimia și biotehnologiile"
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/SGS/744000145670541",
+    "title": "Controlor Calitate",
+    "company": "SGS - TIM SRL",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:36.819Z",
+    "status": "scraped",
+    "tags": [
+      "Chimie analitică",
+      "Analiză instrumentală"
+    ],
+    "matchPercentage": 45,
+    "reason": "Pregătire probe și arhivare; activități de laborator compatibile cu analiza de laborator"
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/Analist-Calitate-Craiova",
@@ -109,14 +364,14 @@
       "Craiova, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:48:12.570Z",
+    "date": "2026-09-13T13:15:13.165Z",
     "status": "scraped",
     "tags": [
       "Control calitate",
-      "Analiză instrumentală"
+      "Chimie analitică"
     ],
-    "matchPercentage": 20,
-    "reason": "Analiză calitate - potențial relevant prin competențele de analiză instrumentală"
+    "matchPercentage": 40,
+    "reason": "Fără descriere, dar analist calitate poate implica analiză de laborator"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-service-aparatura-analitica-de-laborator-3",
@@ -132,8 +387,8 @@
       "Analiză instrumentală",
       "Chimie analitică"
     ],
-    "matchPercentage": 75,
-    "reason": "Service echipamente analitice de laborator - se potrivește direct cu cunoștințele de chimie analitică, analiză instrumentală și tehnici de separare"
+    "matchPercentage": 80,
+    "reason": "Service echipamente analitice de laborator; cunoștințe de chimie analitică și analiză instrumentală direct aplicabile"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-ofertare-586",
@@ -146,11 +401,11 @@
     "date": "2026-09-04T12:48:55.944Z",
     "status": "scraped",
     "tags": [
-      "Instrumentație analitică",
-      "Cercetare"
+      "Analiză instrumentală",
+      "Chimie analitică"
     ],
-    "matchPercentage": 45,
-    "reason": "Institut de cercetare în instrumentație analitică - ofertarea echipamentelor de laborator se bazează pe cunoștințe de chimie analitică și analiză structurală"
+    "matchPercentage": 40,
+    "reason": "Institut de cercetare pentru instrumentație analitică; cunoștințe de chimie utilă pentru ofertare produse/echipamente de laborator"
   },
   {
     "url": "https://romaero.com/cariere/anunt-angajare-controlor-calitate-frezare-chimica/",
@@ -164,10 +419,10 @@
     "status": "scraped",
     "tags": [
       "Chimie anorganică",
-      "Tehnologie chimică"
+      "Control calitate"
     ],
-    "matchPercentage": 65,
-    "reason": "Controlul calității prin frezare chimică implică proceduri chimice de tratare a suprafețelor, compatibil cu chimia anorganică și tehnologia chimică."
+    "matchPercentage": 55,
+    "reason": "Frezarea chimică (chimie metalurgică/ Fotochimie) implică procese chimice de decapare. Controlul calității presupune cunoștințe de chimie anorganică și analiză."
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/Coordonator-SSM-si-Protectia-Mediului",
@@ -177,14 +432,14 @@
       "Dudestii Noi, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:45:19.933Z",
+    "date": "2026-09-13T13:08:59.808Z",
     "status": "scraped",
     "tags": [
       "Protecția mediului",
       "Tratarea apelor"
     ],
-    "matchPercentage": 55,
-    "reason": "Coordonarea securității și protecției mediului este relevantă pentru absolvenții de chimie care au cunoștințe de tratarea apelor și protecția mediului."
+    "matchPercentage": 50,
+    "reason": "Protecția mediului este un domeniu țintă. Implică cunoștințe de tratarea apelor, chimia mediului și legislație de mediu."
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/Coordonato-SSM-și-protecția-mediului",
@@ -194,14 +449,14 @@
       "Dudestii Noi, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:45:19.933Z",
+    "date": "2026-09-13T13:08:59.808Z",
     "status": "scraped",
     "tags": [
       "Protecția mediului",
       "Tratarea apelor"
     ],
-    "matchPercentage": 55,
-    "reason": "Identic cu precedentul – coordonare SSM și protecția mediului, relevant pentru profilul de chimie aplicată."
+    "matchPercentage": 50,
+    "reason": "Identic cu #18, coordonare SSM și protecția mediului, relevant pentru chimia mediului."
   },
   {
     "url": "https://romaero.com/cariere/anunt-angajare-operator-la-tratarea-si-epurarea-apelor-uzate-2/",
@@ -211,14 +466,14 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:48:01.508Z",
+    "date": "2026-09-13T13:09:49.849Z",
     "status": "scraped",
     "tags": [
       "Tratarea apelor",
       "Chimie analitică"
     ],
-    "matchPercentage": 75,
-    "reason": "Tratarea și epurarea apelor uzate este în domeniul de competență"
+    "matchPercentage": 85,
+    "reason": "Operator epurare ape uzate — rol direct aliniat cu pregătirea în chimie și tratarea apelor"
   },
   {
     "url": "https://www.apavital.ro/cariere/concurs-pentru-ocuparea-unui-post-de-operator-la-tratarea-si-epurarea-apelor-uzate-in-cadrul-statiei-de-epurare-iasi-sectia-epurare",
@@ -235,24 +490,7 @@
       "Chimie analitică"
     ],
     "matchPercentage": 85,
-    "reason": "Concurs oficial pentru stație de epurare, monitorizare calitate apă și nămol — competențe directe din plan"
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/reprezentatvanzariexpertchimic",
-    "title": "Reprezentant Vanzari – Expert in Tratarea Apei",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-08T12:38:30.371Z",
-    "status": "scraped",
-    "tags": [
-      "Tratarea apelor",
-      "Chimie generală"
-    ],
-    "matchPercentage": 55,
-    "reason": "Vânzări tehnice în tratarea apei; cunoștințele de chimie ajută dar rolul e mai degrabă comercial"
+    "reason": "Concurs pentru operator epurare — perfect aliniat cu competențele de tratare a apelor și chimie analitică"
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3368099",
@@ -268,245 +506,7 @@
       "Tratarea apelor",
       "Chimie analitică"
     ],
-    "matchPercentage": 75,
-    "reason": "Operator epurare apă uzată — domeniul protecția mediului și tratarea apelor"
-  },
-  {
-    "url": "https://jobviewtrack.com/v2/5g-b1vIJ3NGq4zq4cJpef1WM_Ha6YNIpuk5Nm3YcIiunDyvlibOzjaW59vurNyD8QMt4Vr9fSJvRRsHTfr3ULMnMybtMEUNQ_1lDAFCqJNh__UUW1Zr_RFQnMIo6dNvHAFoc9TteM4w4mYVDeJOktuTMNQ3w7_yLhn6cZivVRq_UprT3OFqIotKpA0I3nBLC31gxfCf7TSGf4m4Z1BglUYeca4yxM7WDTRtrfJq4Mt4",
-    "title": "Operator La Tratarea Apei Tehnologice",
-    "company": "TERMOFICARE ORADEA S.A.",
-    "location": [
-      "Oradea, Bihor, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:50:11.276Z",
-    "status": "scraped",
-    "tags": [
-      "Tratarea apelor",
-      "Tehnologie chimică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Tratarea apei tehnologice în industria energetică, relevanță parțială pentru chimia apei"
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/operator-la-tratarea-si-epurarea-apelor-uzate-x8wjqj",
-    "title": "Operator la tratarea și epurarea apelor uzate",
-    "company": "APA NOVA BUCURESTI SA",
-    "location": [
-      "Glina, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:49:00.162Z",
-    "status": "scraped",
-    "tags": [
-      "Tratarea apelor",
-      "Chimie analitică"
-    ],
-    "matchPercentage": 75,
-    "reason": "Operator epurare apă uzată — domeniu potrivit"
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3321051",
-    "title": "OPERATOR LA TRATAREA SI EPURAREA APELOR UZATE",
-    "company": "FILSAM PROD S.R.L.",
-    "location": [
-      "Filipestii de targ, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:44:48.579Z",
-    "status": "scraped",
-    "tags": [
-      "Tratarea apelor",
-      "Chimie analitică"
-    ],
-    "matchPercentage": 70,
-    "reason": "Tratarea și epurarea apelor uzate, domeniu relevant"
-  },
-  {
-    "url": "https://www.iajob.ro/locuri-de-munca/a7xg2j",
-    "title": "Inginer Junior - industrie alimentara - fabrica de productie in Pantelimon",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:48:09.918Z",
-    "status": "scraped",
-    "tags": [
-      "Biochimie",
-      "Tehnologie chimică"
-    ],
-    "matchPercentage": 30,
-    "reason": "Industria alimentară are tangență cu biochimia dar nu e chimie pură; cunoștințe parțiale transferabile"
-  },
-  {
-    "url": "https://www.iajob.ro/locuri-de-munca/tjliys",
-    "title": "Inginer Industrie Alimentara - entry level - Pantelimon",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:43:50.210Z",
-    "status": "scraped",
-    "tags": [
-      "Biochimie",
-      "Tehnologie chimică"
-    ],
-    "matchPercentage": 30,
-    "reason": "Industrie alimentară, tangență parțială cu biochimia"
-  },
-  {
-    "url": "https://www.iajob.ro/locuri-de-munca/o1flb6",
-    "title": "Angajam Inginer Industrie Alimentara - Pantelimon",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-08T12:41:44.669Z",
-    "status": "scraped",
-    "tags": [
-      "Biochimie",
-      "Tehnologie chimică"
-    ],
-    "matchPercentage": 30,
-    "reason": "Industrie alimentară, tangență parțială cu biochimia"
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-6-consultant-de-specialitate-in-cercetare/",
-    "title": "Consultant de specialitate în cercetare",
-    "company": "STARCKROM TEHNOLOGII SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T12:00:22.259Z",
-    "status": "scraped",
-    "tags": [
-      "Cercetare",
-      "Chimie generală"
-    ],
-    "matchPercentage": 65,
-    "reason": "Consultanță în cercetare, posibil legată de domenii științifice; nu se specifică exact chimia, dar există suprapunere cu cercetarea documentată."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3348175",
-    "title": "CONSILIER/EXPERT/INSPECTOR/REFERENT/ECONOMIST ÎN ECONOMIE GENERALA",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti sectorul 6, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:54:04.426Z",
-    "status": "scraped",
-    "tags": [
-      "Protecția mediului",
-      "Chimie analitică"
-    ],
-    "matchPercentage": 55,
-    "reason": "Institutul de Protecția Mediului; postul poate implica cunoștințe de chimie pentru evaluare de mediu, dar titlul sugerează mai degrabă profil economic."
-  },
-  {
-    "url": "https://multijobs.ro/job/asistent-de-cercetare-in-stiinta-materialelor/2860",
-    "title": "Asistent de cercetare in stiinta materialelor",
-    "company": "INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE PENTRU TEXTILE SI PIELARIE-I.N.C.D.T.P. BUCURESTI SUCURSALA BUCURESTI INSTITUTUL DE CERCETARE PIELARIE - INCALTAMINTE I.C.P.I.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:52:22.381Z",
-    "status": "scraped",
-    "tags": [
-      "Chimie anorganică",
-      "Analiză structurală"
-    ],
-    "matchPercentage": 70,
-    "reason": "Cercetare în știința materialelor la INCD; chimia materialelor, analiza structurală și chimia anorganică sunt direct relevante."
-  },
-  {
-    "url": "https://jobviewtrack.com/v2/ykuIMaeL6ZmbRrqop6fr4masRfTSapcHzk-hPyKT6Rz_AeBV0gtoIPPDsNdlz9XUq_A9ECUuQo119rwL6TkzJWG9inibB1d81l2qjpa3vPxHQz--_XkUzl5_-wVZsowY-owVeefMXZZhWMlaG5R4yDcLqQagSZHw-7dT68JX-8j8LirQN73GsFqThoUYP4joYouIWhXbIwVSOu_ga_tmtkVPYwXRnocfdDkzlF4XwYs",
-    "title": "Operator La Fabricarea Altor Produse Chimice",
-    "company": "SIAD ROMANIA SRL",
-    "location": [
-      "Calarasi, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T12:01:56.613Z",
-    "status": "scraped",
-    "tags": [
-      "Tehnologie chimică",
-      "Chimie generală"
-    ],
-    "matchPercentage": 75,
-    "reason": "Operator în producție chimică la SIAD; chimia industrială, tehnologia chimică și cunoștințele de producție sunt direct relevante."
-  },
-  {
-    "url": "https://jobviewtrack.com/v2/zAuCaHk3jHQJeJD7Xt2fC85GACaqGYJOGCDbVM5NLp71YCUoodHU94VZLYU7EfQuKM4nf2SsDEuTvbs-JlFTBqQ8kPskD5yFfB8Ny3PiXaGV5g11QDaiz3oH4lxQLOFyxR9suGW1fe36jGBFAZ-UJFb5ICiuDNDOoUpKzglKD1PuXN84uQ4-0ucOpAAN-6Inw8_b72ceUUHvUH8KX-ISZ-XKOYOLvqDgYax-hmKYKwA",
-    "title": "Operator La Fabricarea Altor Produse Chimice",
-    "company": "SIAD ROMANIA SRL",
-    "location": [
-      "Calarasi, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T12:01:56.613Z",
-    "status": "scraped",
-    "tags": [
-      "Tehnologie chimică",
-      "Chimie generală"
-    ],
-    "matchPercentage": 75,
-    "reason": "Identic cu precedentul; producție chimică."
-  },
-  {
-    "url": "https://jobviewtrack.com/v2/kFYRcQqQVNyf7Tq1cZP7X0XcF6qaj5bHP1zmlScnsbFd0JQXQMTAuWIQjPPS__5FDTrtMcIzqYR9M0zvUEdCCDFiiVvhEPevuPxqKu5JUrr4rPcMMiiH1DPC70r7RuyH4IlUWVD-Cxu9cEpAGL8KkcJ1XqFegwQq7M1rYivEBeCGEcAH_38C5y4jumWIy63fol-rBgPHvNBsEEFYioLGFVrmD6z8C-UBf0Bj6WlZB_c",
-    "title": "Operator La Fabricarea Altor Produse Chimice",
-    "company": "SIAD ROMANIA SRL",
-    "location": [
-      "Calarasi, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T12:01:56.613Z",
-    "status": "scraped",
-    "tags": [
-      "Tehnologie chimică",
-      "Chimie generală"
-    ],
-    "matchPercentage": 75,
-    "reason": "Identic cu precedentul; producție chimică."
-  },
-  {
-    "url": "https://jobviewtrack.com/v2/-JND54MGyfHQyl6lshU9kEqKbNN9sA5208LqiARj5uJSEShvyuDVNvEveG0FAXiWiYHIz3FRgxG-ZOkVTRqqSQFhY1Rm0xReq_W9XbSs3f1O1Db0UbGlVRh_VCMvQzrzC-pK8L6qdzSB1-QG9AeyH2vxwK58Bsc7l1dUiwfIfSx8SxUn-xNQ4acPhHVf69GbTiJ3UD3GGMMh4X-oylEbFfklEMR7Qz-t5TZfo78rE5s",
-    "title": "Operator La Fabricarea Altor Produse Chimice",
-    "company": "SIAD ROMANIA SRL",
-    "location": [
-      "Calarasi, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T12:01:56.613Z",
-    "status": "scraped",
-    "tags": [
-      "Tehnologie chimică",
-      "Chimie generală"
-    ],
-    "matchPercentage": 75,
-    "reason": "Identic cu precedentul; producție chimică."
-  },
-  {
-    "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3907",
-    "title": "Internship QMS",
-    "company": "PREH ROMANIA SRL",
-    "location": [
-      "Ghimbav, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:50:33.079Z",
-    "status": "scraped",
-    "tags": [
-      "Control calitate",
-      "Analiză instrumentală"
-    ],
-    "matchPercentage": 60,
-    "reason": "Internship în managementul calității la PREH; proceduri, documentație, audituri - suprapunere cu analiza de laborator și controlul calității."
+    "matchPercentage": 85,
+    "reason": "Operator epurare ape uzate — rol direct în domeniul de specialitate"
   }
 ]
