@@ -1,0 +1,104 @@
+[
+  {
+    "url": "https://usamvjobs.ro/job/bragadiru-2-analist-controlul-calitatii/",
+    "title": "Analist Controlul Calitatii",
+    "company": "LAROPHARM SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-30T15:55:09.006Z",
+    "status": "scraped",
+    "tags": [
+      "cromatografie HPLC",
+      "analiza instrumentala"
+    ],
+    "matchPercentage": 93,
+    "reason": "Analist QC farmaceutic cu HPLC, GC, UV-VIS si IR, diploma de chimie ceruta explicit."
+  },
+  {
+    "url": "https://usamvjobs.ro/job/dragoesti-ialomita-2-angajam-laborant-analize-fizico-chimice-dragoesti-ialomita/",
+    "title": "Angajam laborant analize fizico-chimice - Dragoesti, Ialomita",
+    "company": "AGROSERV MĂRIUŢA S.A.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-30T15:48:57.697Z",
+    "status": "scraped",
+    "tags": [
+      "lucru în laborator",
+      "analiză instrumentală"
+    ],
+    "matchPercentage": 90,
+    "reason": "Activitatea de laborator fizico-chimic se potrivește direct cu competențele de analiză și lucru în laborator."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
+    "title": "Analist Controlul Calitatii",
+    "company": "MESSER ROMANIA GAZ SRL",
+    "location": [
+      "Resita, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-30T15:49:07.999Z",
+    "status": "scraped",
+    "tags": [
+      "analiza instrumentala",
+      "cromatografie GC"
+    ],
+    "matchPercentage": 85,
+    "reason": "Analist intr-un laborator de control al gazelor, cu calibrarea analizelor, proceduri de laborator si investigarea rezultatelor."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-service-aparatura-analitica-de-laborator-3",
+    "title": "inginer service aparatura analitica de laborator",
+    "company": "BERD TRADING SRL",
+    "location": [
+      "Calea Dorobantilor nr. 59 Bloc 59 Sc. 1 Ap. 3 Sector 1, Bucuresti, Municipiul Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-29T14:48:27.032Z",
+    "status": "scraped",
+    "tags": [
+      "analiza instrumentala",
+      "cromatografie"
+    ],
+    "matchPercentage": 75,
+    "reason": "Service pentru aparatura analitica de laborator, relevant pentru analiza instrumentala la nivel entry-level."
+  },
+  {
+    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
+    "title": "Analyst Mediu/Calitate",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-30T15:59:04.449Z",
+    "status": "scraped",
+    "tags": [
+      "controlul mediului",
+      "analize de urme"
+    ],
+    "matchPercentage": 70,
+    "reason": "Analist de mediu si calitate, potrivit pentru monitorizarea factorilor de mediu si analize de control."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/specialist-asigurarea-calitatii/1990115",
+    "title": "Specialist asigurarea calitatii",
+    "company": "DACIA PLANT SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-30T15:59:42.414Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calitatii",
+      "analize de urme"
+    ],
+    "matchPercentage": 62,
+    "reason": "Controlul calitatii si siguranta alimentelor presupune prelevare de probe si verificare de proces, partial in acord cu domeniul."
+  }
+]
