@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
-    "title": "Analist Controlul Calitatii",
-    "company": "MESSER ROMANIA GAZ SRL",
-    "location": [
-      "Resita",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:26.529Z",
-    "status": "scraped",
-    "tags": [
-      "calibrare",
-      "control calitate"
-    ],
-    "matchPercentage": 95,
-    "reason": "Controlul calității, calibrare, testări analitice și investigarea abaterilor se potrivesc direct cu analiza instrumentală și QC."
-  },
-  {
     "url": "https://usamvjobs.ro/job/dragoesti-ialomita-2-angajam-laborant-analize-fizico-chimice-dragoesti-ialomita-2/",
     "title": "Angajam laborant analize fizico-chimice - Dragoesti, Ialomita",
     "company": "AGROSERV MĂRIUŢA S.A.",
@@ -28,11 +10,11 @@
     "date": "2026-10-17T12:14:43.762Z",
     "status": "scraped",
     "tags": [
-      "analiză",
-      "laborator"
+      "analiză de laborator",
+      "controlul calității"
     ],
-    "matchPercentage": 95,
-    "reason": "Post direct de laborator: analize fizico-chimice, prelevare probe, aparatură și raportare."
+    "matchPercentage": 88,
+    "reason": "Laborantul fizico-chimic realizează direct analize de laborator și control al calității, iar experiența nu este obligatorie."
   },
   {
     "url": "https://usamvjobs.ro/job/dragoesti-ialomita-2-angajam-laborant-analize-fizico-chimice-dragoesti-ialomita/",
@@ -45,63 +27,239 @@
     "date": "2026-10-17T12:14:43.762Z",
     "status": "scraped",
     "tags": [
-      "analiză",
-      "laborator"
+      "analiză de laborator",
+      "controlul calității"
     ],
-    "matchPercentage": 95,
-    "reason": "Post direct de laborator: analize fizico-chimice, prelevare probe, aparatură și raportare."
+    "matchPercentage": 88,
+    "reason": "Laborantul fizico-chimic realizează direct analize de laborator și control al calității, iar experiența nu este obligatorie."
   },
   {
-    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
-    "title": "Tehnician analize de mediu",
-    "company": "KRONSTEF SRL",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
+    "title": "Analist Controlul Calitatii",
+    "company": "MESSER ROMANIA GAZ SRL",
     "location": [
-      "Ploiesti",
+      "Resita",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:17:26.394Z",
+    "date": "2026-10-17T12:22:26.529Z",
     "status": "scraped",
     "tags": [
-      "analiză",
-      "mediu"
+      "controlul calitatii",
+      "analiza instrumentala"
     ],
-    "matchPercentage": 90,
-    "reason": "Tehnician analize de mediu - potrivit pentru chimie analitică"
+    "matchPercentage": 82,
+    "reason": "Controlul calității produselor gazoase implică analize instrumentale, calibrare și proceduri de laborator analitic."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
-    "title": "Working Student - Waste Management",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://www.synevo.ro/cariere/biolog-biochimist-oradea-synevo/",
+    "title": "Biolog/ Biochimist/ Chimist",
+    "company": "SYNEVO ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-28T12:06:56.663Z",
+    "status": "scraped",
+    "tags": [
+      "analize clinice",
+      "biochimie"
+    ],
+    "matchPercentage": 75,
+    "reason": "Analize clinice de laborator pentru debutanți, cu diplomă de chimie acceptată."
+  },
+  {
+    "url": "https://elytis-hospital.ro/cariere/biolog-chimist-biochimist/",
+    "title": "Biolog Chimist/ Biochimist",
+    "company": "ELYTIS HOSPITAL SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:44.649Z",
+    "status": "scraped",
+    "tags": [
+      "analize clinice",
+      "biochimie"
+    ],
+    "matchPercentage": 75,
+    "reason": "Post explicit pentru absolvenți de chimie în laborator clinic, fără experiență obligatorie."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Tehnician-Laborator",
+    "title": "Tehnician Laborator",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.322Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calității",
+      "analiză instrumentală"
+    ],
+    "matchPercentage": 70,
+    "reason": "Tehnician de laborator pentru analize fizico-chimice și controlul calității."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-analist-chimie-recrutam-pentru-clientul-nostru/2671",
+    "title": "Tehnician/Analist Chimie – Recrutăm pentru Clientul nostru",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:07:07.123Z",
+    "status": "scraped",
+    "tags": [
+      "analiză instrumentală",
+      "controlul calității"
+    ],
+    "matchPercentage": 68,
+    "reason": "Titlul și rolul de tehnician/analist chimie indică activitate directă de laborator analitic, la nivel entry/mid."
+  },
+  {
+    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
+    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
+    "company": "KRONOSPAN SEBES SA",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-27T11:54:22.051Z",
+    "date": "2026-10-28T12:38:37.549Z",
     "status": "scraped",
     "tags": [
-      "epurare",
-      "mediu"
+      "inginerie chimică",
+      "procese industriale"
     ],
-    "matchPercentage": 90,
-    "reason": "Management deșeuri, se potrivește tratării și controlului mediului."
+    "matchPercentage": 65,
+    "reason": "Post de inginer chimist în producția de formaldehidă, relevant pentru inginerie chimică și procese industriale."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155955099-working-student-sample-management-expert",
-    "title": "Working Student Sample Management Expert",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://multijobs.ro/job/biolog-chimist-laborator-analize/2206",
+    "title": "Biolog -Chimist / Laborator Analize",
+    "company": "ELYTIS HOSPITAL HOPE SRL",
     "location": [
-      "Cluj-Napoca",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-27T11:54:22.051Z",
+    "date": "2026-10-17T12:20:55.318Z",
     "status": "scraped",
     "tags": [
-      "probă",
-      "laborator"
+      "analize clinice",
+      "biochimie"
     ],
-    "matchPercentage": 75,
-    "reason": "Gestionarea probelor, se potrivește documentării și lucrului de laborator."
+    "matchPercentage": 65,
+    "reason": "Laborator de analize medicale pentru chimist, activitate directă de analiză clinică."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3389728",
+    "title": "LABORANT CHIMIST",
+    "company": "BUNGE ROMANIA SRL",
+    "location": [
+      "Traian",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:10.975Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calității",
+      "analiză instrumentală"
+    ],
+    "matchPercentage": 65,
+    "reason": "Analize de laborator pentru materii prime și controlul calității, nivel entry cu puțină experiență."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-chimist-197",
+    "title": "INGINER CHIMIST",
+    "company": "HYDRO - X SRL",
+    "location": [
+      "Pitești",
+      "Romania",
+      "Gaesti",
+      "Romania",
+      "Ramnicu Valcea",
+      "Romania",
+      "Slatina",
+      "Romania",
+      "Alexandria",
+      "Romania",
+      "Craiova",
+      "Romania",
+      "Tg-Jiu",
+      "Romania",
+      "Motru",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:28.875Z",
+    "status": "scraped",
+    "tags": [
+      "tratarea apelor",
+      "inginerie chimică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Inginer chimist în tratarea apelor, domeniu tehnic direct relevant."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/SGS/744000126084800",
+    "title": "Laborant Chimist",
+    "company": "SGS - TIM SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:26.640Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calității",
+      "analiză instrumentală"
+    ],
+    "matchPercentage": 65,
+    "reason": "Analize fizico-chimice de laborator în controlul calității, nivel de laborant."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-chimist-debutant-sectie-productie/2463",
+    "title": "Inginer chimist debutant - Secție Producție",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:12.230Z",
+    "status": "scraped",
+    "tags": [
+      "inginerie chimică",
+      "procese industriale"
+    ],
+    "matchPercentage": 65,
+    "reason": "Inginer chimist debutant în producție chimică, potrivit pentru tehnologie și procese industriale."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416335",
+    "title": "LABORANT CHIMIST",
+    "company": "ILVAS SA",
+    "location": [
+      "Vaslui",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:46.968Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calității",
+      "analiză instrumentală"
+    ],
+    "matchPercentage": 60,
+    "reason": "Laborant chimist cu experiență puțină, activitate de laborator relevantă."
   }
 ]
