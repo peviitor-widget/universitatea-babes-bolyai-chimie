@@ -8,14 +8,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T13:54:58.604Z",
+    "date": "2026-11-14T12:57:32.580Z",
     "status": "scraped",
     "tags": [
       "analize clinice",
       "biochimie"
     ],
-    "matchPercentage": 90,
-    "reason": "Post în departamentul de chimie al unui laborator clinic, deschis chimistilor debutanți, cu analize și dozări relevante."
+    "matchPercentage": 88,
+    "reason": "Chimist debutant/specialist în laborator clinic, cu analize instrumentale și biochimice direct relevante."
   },
   {
     "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
@@ -25,13 +25,31 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-13T14:26:21.926Z",
+    "date": "2026-11-14T15:05:10.854Z",
     "status": "scraped",
     "tags": [
       "tehnologie chimică",
       "procese industriale"
     ],
-    "matchPercentage": 85,
-    "reason": "Rol de inginer chimist în fabricația de formaldehidă, cu aplicare directă a tehnologiei și proceselor chimice industriale."
+    "matchPercentage": 82,
+    "reason": "Post de inginer chimist în producția de formaldehidă, cu aplicare directă a tehnologiei și proceselor chimice industriale."
+  },
+  {
+    "url": "https://www.farmec.ro/compania/cariere/operator-chimist-cluj-napoca/",
+    "title": "Operator chimist -Cluj-Napoca",
+    "company": "FARMEC SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-14T12:42:52.717Z",
+    "status": "scraped",
+    "tags": [
+      "tehnologie chimică",
+      "procese industriale"
+    ],
+    "matchPercentage": 63,
+    "reason": "Operator chimist entry-level în producție cosmetică, potrivire parțială cu tehnologia chimică, dar sarcinile sunt preponderent operaționale."
   }
 ]
