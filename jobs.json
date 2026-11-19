@@ -1,165 +1,21 @@
 [
   {
-    "url": "https://elytis-hospital.ro/cariere/biolog-chimist-biochimist/",
-    "title": "Biolog Chimist/ Biochimist",
-    "company": "ELYTIS HOSPITAL SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:52:47Z",
-    "status": "tested",
-    "tags": [
-      "analize clinice",
-      "biochimie"
-    ],
-    "matchPercentage": 90,
-    "reason": "Post de biolog/chimist/biochimist în laborator de analize medicale, cu mențiunea că experiența nu este obligatorie, foarte potrivit profilului."
-  },
-  {
-    "url": "https://www.synevo.ro/cariere/biolog-biochimist-oradea-synevo/",
-    "title": "Biolog/ Biochimist/ Chimist",
-    "company": "SYNEVO ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:29:30.264Z",
-    "status": "scraped",
-    "tags": [
-      "analize clinice",
-      "chimie analitică"
-    ],
-    "matchPercentage": 88,
-    "reason": "Post de chimist/biochimist în laborator de analize, inclusiv pentru debutanți, potrivit competențelor de laborator și analiză."
-  },
-  {
-    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
-    "title": "Tehnician analize de mediu",
-    "company": "LAJEDO SRL",
-    "location": [
-      "Ploiesti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:21:40Z",
-    "status": "tested",
-    "tags": [
-      "analiză instrumentală",
-      "controlul calității"
-    ],
-    "matchPercentage": 88,
-    "reason": "Tehnician în analize de mediu, rol la nivel de intrare care folosește direct analiza instrumentală și controlul calității."
-  },
-  {
-    "url": "https://bioclinica.ro/compania/cariere/biolog-chimist-biochimist-timisoara",
-    "title": "Biolog/Chimist/Biochimist",
-    "company": "BIOCLINICA SRL",
+    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
+    "title": "Analyst Mediu/Calitate",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:22:15Z",
+    "date": "2026-11-17T10:33:26Z",
     "status": "tested",
     "tags": [
-      "analize clinice",
-      "biochimie"
+      "controlul calității",
+      "analize de urme"
     ],
-    "matchPercentage": 84,
-    "reason": "Post în laborator de analize medicale pentru chimist/biochimist, relevant pentru competențele de analiză clinică și laborator."
-  },
-  {
-    "url": "https://multijobs.ro/job/biolog-chimist-laborator-analize/2206",
-    "title": "Biolog -Chimist / Laborator Analize",
-    "company": "ELYTIS HOSPITAL HOPE SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:13:36Z",
-    "status": "tested",
-    "tags": [
-      "analize clinice",
-      "lucru laborator"
-    ],
-    "matchPercentage": 84,
-    "reason": "Rol în laborator de analize pentru chimist/biolog, relevant pentru competențele de laborator și analize clinice."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/SGS/744000126084800",
-    "title": "Laborant Chimist",
-    "company": "SGS - TIM SRL",
-    "location": [
-      "Constanta",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:26:34Z",
-    "status": "tested",
-    "tags": [
-      "analiză gravimetrică",
-      "lucru laborator"
-    ],
-    "matchPercentage": 82,
-    "reason": "Laborator de analize fizico-chimice, potrivit competențelor de analiză și lucru în laborator; nivelul nu este specificat ca senior."
-  },
-  {
-    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
-    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:52:40Z",
-    "status": "tested",
-    "tags": [
-      "analiză instrumentală",
-      "spectroscopie"
-    ],
-    "matchPercentage": 80,
-    "reason": "Poziția de cercetător include treapta ACS de entry-level la institutul de protecția mediului și folosește direct analiza instrumentală în analize de mediu."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/laborant-chimist/",
-    "title": "Laborant chimist",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:01:32Z",
-    "status": "tested",
-    "tags": [
-      "lucru laborator",
-      "control calitate"
-    ],
-    "matchPercentage": 72,
-    "reason": "Poziție de laborant chimist într-un mediu de producție, relevantă pentru lucru de laborator și control, deși detaliile despre nivel sunt limitate."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/laborant-chimist-4/",
-    "title": "Laborant chimist",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:31:46Z",
-    "status": "tested",
-    "tags": [
-      "lucru laborator",
-      "control calitate"
-    ],
-    "matchPercentage": 72,
-    "reason": "Poziție de laborant chimist într-un mediu de producție, relevantă pentru lucru de laborator și control, deși detaliile despre nivel sunt limitate."
+    "matchPercentage": 75,
+    "reason": "Analist mediu/calitate corespunde direct domeniilor analizei de mediu și controlului calității, la nivel entry-level."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
@@ -173,28 +29,28 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "control mediului",
-      "documentare"
+      "analize de urme",
+      "controlul calității"
     ],
-    "matchPercentage": 72,
-    "reason": "Auditor de mediu cu studii superioare și sub 3 ani experiență, potrivit pentru activități de control al mediului."
+    "matchPercentage": 68,
+    "reason": "Auditor de mediu cu studii superioare și sub 3 ani experiență, încadrat în domeniul controlului și siguranței mediului."
   },
   {
-    "url": "https://makitajobs.ro/responsabil-mediu/",
-    "title": "Responsabil Mediu",
-    "company": "MAKITA ROMANIA SRL",
+    "url": "https://oferimdemunca.ro/job/controlor-calitate-fabrica-din-brasov/",
+    "title": "Controlor calitate - fabrica din Brasov",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
     "location": [
-      "Ilfov",
+      "Braşov",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:08:54Z",
+    "date": "2026-11-17T15:30:25Z",
     "status": "tested",
     "tags": [
-      "control mediului",
-      "documentare"
+      "control calitate",
+      "analiză laborator"
     ],
-    "matchPercentage": 62,
-    "reason": "Responsabil de mediu cu monitorizare, raportări și gestionarea deșeurilor, domeniu parțial suprapus peste controlul mediului."
+    "matchPercentage": 65,
+    "reason": "Poziție de control al calității în mediu industrial, domeniu parțial compatibil cu analiza de laborator și fără cerințe de senior."
   }
 ]
