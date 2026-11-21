@@ -14,8 +14,8 @@
       "analize clinice",
       "biochimie"
     ],
-    "matchPercentage": 90,
-    "reason": "Post pentru absolvenți la început de carieră, fără experiență obligatorie, cu analize medicale de laborator."
+    "matchPercentage": 85,
+    "reason": "Postul acceptă absolvenți de chimie/biochimie fără experiență obligatorie și implică analize medicale de laborator."
   },
   {
     "url": "https://www.synevo.ro/cariere/biolog-biochimist-oradea-synevo/",
@@ -26,86 +26,32 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-19T15:15:04.139Z",
+    "date": "2026-11-20T14:53:46.217Z",
     "status": "scraped",
     "tags": [
       "analize clinice",
       "biochimie"
     ],
-    "matchPercentage": 85,
-    "reason": "Postul acceptă explicit debutanți în analize de laborator clinic, potrivit competențelor de chimist."
+    "matchPercentage": 82,
+    "reason": "Rol de laborator în departamentul de chimie, potrivit pentru debutanți și relevant pentru analize clinice și de laborator."
   },
   {
-    "url": "https://www.medlife.ro/cariere/job-apply/9190",
-    "title": "Biolog, biochimist - Laborator Spitalul de Pediatrie",
-    "company": "MED LIFE SA",
+    "url": "https://multijobs.ro/job/biolog-chimist-laborator-analize/2206",
+    "title": "Biolog -Chimist / Laborator Analize",
+    "company": "ELYTIS HOSPITAL HOPE SRL",
     "location": [
-      "Bucuresti",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-19T15:20:38.027Z",
-    "status": "scraped",
-    "tags": [
-      "biochimie",
-      "analize clinice"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziție de biolog/biochimist în laborator spitalicesc, direct în domeniul analizelor clinice."
-  },
-  {
-    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
-    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:52:40Z",
+    "date": "2026-11-17T13:13:36Z",
     "status": "tested",
     "tags": [
-      "cercetare laborator",
-      "control mediu"
-    ],
-    "matchPercentage": 85,
-    "reason": "Institut de cercetare în protecția mediului cu grade entry-level ACS/CS, domeniu direct: analiză instrumentală, controlul mediului și cercetare în laborator."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/laborant-chimist/",
-    "title": "Laborant chimist",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:01:32Z",
-    "status": "tested",
-    "tags": [
-      "analiză de laborator",
-      "controlul calității"
+      "analize clinice",
+      "laborator"
     ],
     "matchPercentage": 80,
-    "reason": "Laborant chimist în fabrică de vopsele, rol de analiză și control al calității la nivel de început."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/laborant-chimist-4/",
-    "title": "Laborant chimist",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:31:46Z",
-    "status": "tested",
-    "tags": [
-      "analiză de laborator",
-      "controlul calității"
-    ],
-    "matchPercentage": 80,
-    "reason": "Laborant chimist în fabrică de vopsele, poziție entry-level în analiză de laborator și controlul calității."
+    "reason": "Rolul de biolog/chimist în laborator de analize este relevant pentru analize clinice și activitate de laborator."
   },
   {
     "url": "https://jobs.smartrecruiters.com/SGS/744000126084800",
@@ -119,11 +65,11 @@
     "date": "2026-11-17T14:26:34Z",
     "status": "tested",
     "tags": [
-      "analiză de laborator",
-      "tehnici de separare"
+      "analiză gravimetrică",
+      "controlul calității"
     ],
-    "matchPercentage": 80,
-    "reason": "Laborant chimist cu pregătirea probelor și analize fizico-chimice, competențe direct aplicabile."
+    "matchPercentage": 78,
+    "reason": "Rolul implică analize fizice și chimice de laborator, potrivite competențelor de analiză și control al calității."
   },
   {
     "url": "https://bioclinica.ro/compania/cariere/biolog-chimist-biochimist-timisoara",
@@ -140,26 +86,26 @@
       "analize clinice",
       "biochimie"
     ],
-    "matchPercentage": 80,
-    "reason": "Poziție de chimist/biochimist în laborator clinic, fără cerințe de senior, cu analize medicale."
+    "matchPercentage": 75,
+    "reason": "Postul în laborator clinic este relevant pentru competențele de biochimie și analize clinice de laborator."
   },
   {
-    "url": "https://multijobs.ro/job/biolog-chimist-laborator-analize/2206",
-    "title": "Biolog -Chimist / Laborator Analize",
-    "company": "ELYTIS HOSPITAL HOPE SRL",
+    "url": "https://www.medlife.ro/cariere/job-apply/9190",
+    "title": "Biolog, biochimist - Laborator Spitalul de Pediatrie",
+    "company": "MED LIFE SA",
     "location": [
-      "Iași",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T13:13:36Z",
-    "status": "tested",
+    "date": "2026-11-20T14:58:22.110Z",
+    "status": "scraped",
     "tags": [
-      "analize clinice",
-      "analiză de laborator"
+      "biochimie",
+      "analize clinice"
     ],
-    "matchPercentage": 80,
-    "reason": "Poziție de chimist în laborator de analize, domeniu și nivel potrivite pentru un absolvent."
+    "matchPercentage": 72,
+    "reason": "Rolul de biolog/biochimist în laborator de spital se potrivește parțial cu biochimia și analizele clinice de laborator."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-chimist-fabrica-de-adezivi-1",
@@ -176,25 +122,62 @@
       "tehnologie chimică",
       "procese industriale"
     ],
-    "matchPercentage": 75,
-    "reason": "Inginer chimist în fabrica de adezivi, domeniu de tehnologie chimică și procese industriale."
+    "matchPercentage": 70,
+    "reason": "Rolul de inginer chimist în fabrica de adezivi se potrivește parțial cu tehnologia chimică și procesele industriale."
   },
   {
-    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
-    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
-    "company": "KRONOSPAN SEBES SA",
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/medicina-umana/anunt/angajam-biolog-chimist-sau-biochimist-cu-experienta/242fhf4669337603ef4hhee4d66e126e.html",
+    "title": "angajăm biolog, chimist sau biochimist cu experiență",
+    "company": "PUBLI24 DIGITAL S.R.L.",
     "location": [
-      "România"
+      "Baia Mare",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-19T15:37:54.805Z",
-    "status": "scraped",
+    "date": "2026-11-17T12:40:38Z",
+    "status": "tested",
     "tags": [
-      "tehnologie chimică",
-      "procese industriale"
+      "analize clinice",
+      "biochimie"
     ],
-    "matchPercentage": 70,
-    "reason": "Inginerie chimică în instalația de formaldehidă, domeniu direct relevant, fără cerințe de senior."
+    "matchPercentage": 68,
+    "reason": "Postul în laborator medical este relevant pentru chimie/biochimie, dar cere experiență fără a specifica clar nivelul."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/laborant-chimist/",
+    "title": "Laborant chimist",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:01:32Z",
+    "status": "tested",
+    "tags": [
+      "controlul calității",
+      "laborator"
+    ],
+    "matchPercentage": 65,
+    "reason": "Postul de laborant chimist în producție de vopsele poate implica control de calitate, dar descrierea este prea generală."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/laborant-chimist-4/",
+    "title": "Laborant chimist",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:31:46Z",
+    "status": "tested",
+    "tags": [
+      "controlul calității",
+      "laborator"
+    ],
+    "matchPercentage": 65,
+    "reason": "Postul de laborant chimist în producție de vopsele poate implica control de calitate, dar descrierea este prea generală."
   },
   {
     "url": "https://www.leohr.ro/jobs/analist-microbiologie-responsabil-de-incercare/58/",
@@ -211,61 +194,25 @@
       "biochimie",
       "analize clinice"
     ],
-    "matchPercentage": 70,
-    "reason": "Analist microbiologie în laborator, domeniu înrudit cu biochimia și analizele de laborator, la nivel de analist junior/mid."
+    "matchPercentage": 65,
+    "reason": "Analist de microbiologie cu responsabilități de încercări în laborator, domeniu apropiat de biochimie și analizele clinice de laborator, la nivel entry/mid."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3444419",
-    "title": "CERCETATOR ÎN TEHNOLOGIE SI ECHIPAMENTE NECONVENTIONALE",
-    "company": "ASOCIATIA IRCEM",
+    "url": "https://multijobs.ro/job/inginer-controlul-si-expertiza-produselor-alimentare/5247",
+    "title": "Inginer Controlul si Expertiza Produselor Alimentare",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "CLUJ-NAPOCA",
+      "Buzau",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "cercetare",
-      "raport experimental"
-    ],
-    "matchPercentage": 68,
-    "reason": "Cercetarea aplicativă cu experimente, măsurători, testări și rapoarte tehnice se potrivește parțial cu cercetarea și dezvoltarea în laborator, iar nivelul fără experiență este acceptabil."
-  },
-  {
-    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/medicina-umana/anunt/angajam-biolog-chimist-sau-biochimist-cu-experienta/242fhf4669337603ef4hhee4d66e126e.html",
-    "title": "angajăm biolog, chimist sau biochimist cu experiență",
-    "company": "PUBLI24 DIGITAL S.R.L.",
-    "location": [
-      "Baia Mare",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:40:38Z",
+    "date": "2026-11-17T09:27:30Z",
     "status": "tested",
     "tags": [
-      "analize clinice",
-      "analiză de laborator"
+      "analiză instrumentală",
+      "lucru laborator"
     ],
     "matchPercentage": 65,
-    "reason": "Laborator de analize medicale în domeniul potrivit, dar anunțul cere experiență anterioară."
-  },
-  {
-    "url": "https://www.medlife.ro/cariere/job-apply/9936",
-    "title": "Biolog - Imunologie - Laborator Grivita",
-    "company": "MED LIFE SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-19T15:20:38.027Z",
-    "status": "scraped",
-    "tags": [
-      "biochimie",
-      "analize clinice"
-    ],
-    "matchPercentage": 65,
-    "reason": "Biolog în laborator de imunologie, domeniu biologic înrudit cu biochimia și analizele clinice."
+    "reason": "Controlul și expertiza produselor alimentare presupun analize chimice de laborator și controlul calității, la nivel de inginer începător."
   }
 ]
